@@ -20,7 +20,7 @@ Bu klasörde `python3 -m http.server 8765` çalıştırıp `http://localhost:876
 
 `main` dalına gönderilen değişiklikler GitHub Actions ile GitHub Pages'e yayımlanır. Depo ayarlarında Pages kaynağı **GitHub Actions** olmalıdır.
 
-Önizleme adresi: https://mtahca.github.io/delta-ilaclama/
+Yayın adresi: https://deltailaclama.net/
 
 Özel alan adına geçiş için GitHub Pages özel alan adı ve DNS ayarları ayrıca yapılmalıdır. `404.html` içindeki ana sayfa bağlantısını da yeni adresle güncelleyin.
 
