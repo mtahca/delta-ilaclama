@@ -22,7 +22,7 @@ Bu klasörde `python3 -m http.server 8765` çalıştırıp `http://localhost:876
 
 Yayın adresi: https://deltailaclama.net/
 
-Özel alan adına geçiş için GitHub Pages özel alan adı ve DNS ayarları ayrıca yapılmalıdır. `404.html` içindeki ana sayfa bağlantısını da yeni adresle güncelleyin.
+Özel alan adı GitHub Pages ayarlarında `deltailaclama.net` olarak tanımlıdır. Cloudflare kök A kayıtları GitHub Pages adreslerine, `www` CNAME kaydı `mtahca.github.io` adresine yönlendirilmiştir. E-posta kayıtları korunmuştur.
 
 ## Düzenleme
 
